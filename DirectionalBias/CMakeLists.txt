@@ -1,0 +1,2 @@
+ADD_COMPUCELL3D_PLUGIN(DirectionalBias LINK_LIBRARIES ${CC3DLibraries})
+
