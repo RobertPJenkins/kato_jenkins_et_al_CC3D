@@ -14,7 +14,7 @@ See https://github.com/RobertPJenkins/kato_jenkins_et_al_CC3D/blob/main/CC3D_plu
 
 ## Contributing
 
-In the first instance please contact robert.jenkins@crick.ac.uk with coding errors or suggestions on making the code better or more suitable to your work.
+In the first instance please contact robert.jenkins@crick.ac.uk with coding errors or suggestions on making the code better.
 
 ## Author
 
