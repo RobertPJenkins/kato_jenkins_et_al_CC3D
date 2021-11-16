@@ -1,0 +1,3 @@
+ADD_COMPUCELL3D_PLUGIN(ECMPenetration LINK_LIBRARIES ${CC3DLibraries})
+
+
