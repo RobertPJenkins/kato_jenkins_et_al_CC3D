@@ -1,0 +1,2 @@
+ADD_COMPUCELL3D_STEPPABLE(SpheroidCentroid LINK_LIBRARIES ${CC3DLibraries})
+
