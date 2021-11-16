@@ -1,0 +1,3 @@
+
+ADD_COMPUCELL3D_STEPPABLE(MitosisPostInitialise LINK_LIBRARIES ${CC3DLibraries})
+
