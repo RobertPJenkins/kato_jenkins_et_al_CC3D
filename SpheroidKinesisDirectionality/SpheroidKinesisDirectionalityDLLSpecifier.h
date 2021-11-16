@@ -1,0 +1,17 @@
+#ifndef SPHEROIDKINESISDIRECTIONALITY_EXPORT_H
+#define SPHEROIDKINESISDIRECTIONALITY_EXPORT_H
+
+    #if defined(_WIN32)
+      #ifdef SpheroidKinesisDirectionalityShared_EXPORTS
+          #define SPHEROIDKINESISDIRECTIONALITY_EXPORT __declspec(dllexport)
+          #define SPHEROIDKINESISDIRECTIONALITY_EXPIMP_TEMPLATE
+      #else
+          #define SPHEROIDKINESISDIRECTIONALITY_EXPORT __declspec(dllimport)
+          #define SPHEROIDKINESISDIRECTIONALITY_EXPIMP_TEMPLATE extern
+      #endif
+    #else
+         #define SPHEROIDKINESISDIRECTIONALITY_EXPORT
+         #define SPHEROIDKINESISDIRECTIONALITY_EXPIMP_TEMPLATE
+    #endif
+
+#endif
