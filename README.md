@@ -9,7 +9,7 @@ See https://compucell3d.org/FrontPage for installation instructions for new plug
 
 ## Usage
 
-See CC3D_plugins_steppables_walkthrough.pdf for instructions.
+See https://github.com/RobertPJenkins/kato_jenkins_et_al_CC3D/blob/main/CC3D_plugins_steppables_walkthrough.pdf for instructions.
 
 
 ## Contributing
