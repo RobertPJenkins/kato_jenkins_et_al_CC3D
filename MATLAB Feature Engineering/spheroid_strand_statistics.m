@@ -16,7 +16,7 @@ for combination_index=1:no_combinations
 
         scc_neigh = scc_neigh(index);
         cell_type=cell_type(index);
-
+        depth=depth(index);
         depth = micron_scale * depth;
 
         index=intersect(find(cell_type==1),find(scc_neigh>0));
